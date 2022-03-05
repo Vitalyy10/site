@@ -1,2 +1,10 @@
 I love Python
- 	 Are you? 
+ 	 Are you?
+
+ class Test(unittestCases):
+
+    def test_type(self):
+        self.assertEqual(type("string"), type(5))
+
+     if __name__ ==__main__:
+        __main__
